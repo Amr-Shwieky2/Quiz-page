@@ -1,4 +1,8 @@
 /* StartGame.css */
+body{
+  margin: 0;
+  padding: 0;
+}
 .Start-page{
     background-color: #0a68bb;
     background-image: url('https://cutewallpaper.org/27/background-wallpaper-gaming/gaming-pc-wallpaper-hd-wallpapers-for-tech-computer-wallpaper.png');
